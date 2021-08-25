@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:axolotl] run data merge entity @s {Air:6000}
